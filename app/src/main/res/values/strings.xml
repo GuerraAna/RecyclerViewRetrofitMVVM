@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVM</string>
+    <string name="title_text">Título da live</string>
+    <string name="author_text">Autor da live</string>
+</resources>
